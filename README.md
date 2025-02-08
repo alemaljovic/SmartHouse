@@ -22,8 +22,6 @@ Ovaj projekat omogućava simulaciju pametnih kuća, upravljanje uređajima u raz
  ├── org/
  │   ├── House/            # Klase vezane za kuće i sobe
  │   ├── Devices/          # Pametni uređaji
- │   ├── Suppliers/        # Dobavljači energije i računi
- │   ├── Exceptions/       # Definicije izuzetaka
  │   ├── Main.java         # Ulazna tačka programa
  │   ├── Simulation.java   # Glavna simulacija
 ```
