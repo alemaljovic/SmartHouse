@@ -1,0 +1,5 @@
+C:\Users\Alem\skyline\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alem\skyline\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\Alem\skyline\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+C:\Users\Alem\skyline\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Alem\skyline\MyProject\obj\Debug\net8.0\MyProject.sourcelink.json
